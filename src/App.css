@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+img {
+  width: 15rem;
+}
+
+.container {
+  background-color: hotpink;
+}
+
+.navbar-expand-lg {
+  color: white !important;
+}
+.disabled-link {
+  pointer-events: none;
+}
+
+.secondary-color {
+  background-color: hotpink;
+  border-color: hotpink;
+}
